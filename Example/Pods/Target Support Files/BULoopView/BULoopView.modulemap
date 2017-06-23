@@ -1,0 +1,6 @@
+framework module BULoopView {
+  umbrella header "BULoopView-umbrella.h"
+
+  export *
+  module * { export * }
+}
