@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BULoopView_Example' do
+  pod 'BULoopView', :path => '../'
+
+  target 'BULoopView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
