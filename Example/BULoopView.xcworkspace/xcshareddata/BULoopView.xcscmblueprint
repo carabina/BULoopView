@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F463F8D0199B100E97F9D8FCEB0BEDD63EEA8676",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F463F8D0199B100E97F9D8FCEB0BEDD63EEA8676" : 9223372036854775807,
+    "413F03400D61C78D6EEB1BB5E06A05FE5CD2D218" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E88205BA-44BF-4ACA-BDF7-5F49161A0EAE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F463F8D0199B100E97F9D8FCEB0BEDD63EEA8676" : "BULoopView\/",
+    "413F03400D61C78D6EEB1BB5E06A05FE5CD2D218" : "BULoopView\/BULoopView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BULoopView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/BULoopView.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/burakustn\/BULoopView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "413F03400D61C78D6EEB1BB5E06A05FE5CD2D218"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/burakustn\/BULoopView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F463F8D0199B100E97F9D8FCEB0BEDD63EEA8676"
+    }
+  ]
+}

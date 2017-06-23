@@ -1,0 +1,19 @@
+PODS:
+  - BULoopView (0.1.0):
+    - Kingfisher
+  - Kingfisher (3.10.1)
+
+DEPENDENCIES:
+  - BULoopView (from `../`)
+
+EXTERNAL SOURCES:
+  BULoopView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BULoopView: 305fdc99e8bef1c37fd3b44b2afe99f6cd344bf2
+  Kingfisher: 33a1b82140fcb14a9fc13f78dfde2a03ff8de8cb
+
+PODFILE CHECKSUM: 38e7f65581a4782ec0f3b78dc9527789e9cd4f57
+
+COCOAPODS: 1.2.1
