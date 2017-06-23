@@ -1,6 +1,0 @@
-framework module Pods_BULoopView_Example {
-  umbrella header "Pods-BULoopView_Example-umbrella.h"
-
-  export *
-  module * { export * }
-}
